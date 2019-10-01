@@ -1,5 +1,5 @@
 /* eslint-disable no-invalid-this */
-const buble = require('buble'),
+const buble = require('@qubit/buble'),
 	path = require('path'),
 	loaderUtils = require('loader-utils');
 
